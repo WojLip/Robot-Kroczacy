@@ -1,3 +1,3 @@
 # Robot Kroczacy
-## Projekt IPZ 2022/2023
-bllsld
+Projekt IPZ 2022/2023<\br>
+
